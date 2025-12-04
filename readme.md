@@ -1,7 +1,7 @@
 
 ---
 
-# 🌍 Link Between Population Growth and Resource Use
+# 🌍 Population Growth and Resource Analysis
 
 ### 📘 Project Overview
 
@@ -101,3 +101,4 @@ This highlights the need for **sustainable energy management** and **efficient r
 
 **MANIKANDAN R S**
 **PRAKASH G**
+
